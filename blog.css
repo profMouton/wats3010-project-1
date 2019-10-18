@@ -1,0 +1,36 @@
+h1 {
+    
+}
+h2 {
+    font-size:12px;
+}
+h3 {
+    font-size:12px;
+}
+#menu{
+    width:100%;
+    background-color:black;
+    height:35px;
+}
+ul {
+    list-style-type: none;
+    text-align:center;
+    margin: 0;
+    padding: 0;
+    color:white;
+    display:table-row;
+}
+
+li {
+    display: table-cell;
+    height: 35px;
+    list-style-type: none;
+    vertical-align: middle;
+}
+
+}
+ul.a {
+    position:relative;float:left;
+ul.b {
+    position:relative;float:right;
+}
